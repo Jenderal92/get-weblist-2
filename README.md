@@ -1,7 +1,6 @@
 # get-weblist-2
 Python 2.7
 
-Donate ME :
 
 BTC : 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1
 
